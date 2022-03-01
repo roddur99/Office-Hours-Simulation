@@ -1,10 +1,3 @@
-/*
-
-	Name: Mahin Roddur
-	ID: 1001727433
-	
-*/
-
 #include <pthread.h>
 #include <semaphore.h>
 #include <unistd.h>
